@@ -1,6 +1,6 @@
-# objetos en Javascript
+# Objetos en Javascript
 
-hemos vistos los objetos primitivos de javascript como:
+Hemos vistos los objetos primitivos de javascript como:
 
 - Numbers
 - Booleans
@@ -18,7 +18,7 @@ Ejemplos
 
 ```Javascript
 var arr = []
-var abj = {}
+var obj = {}
 ```
 Los arreglos se declaran utilizando `[]` y los objetos se declaran con `{}`.
 
